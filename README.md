@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdelhai95
-- 👀 I’m interested in web development , mobile application and AI 
-- 🌱 I’m currently learning java and java script 
+- 👀 I’m interested in web development 
+- 🌱 I’m currently  Looking for a job as a front end developer
 - 💞️ I’m looking to collaborate on front end design for now 
 - 📫 How to reach me @abdalhay95 this my twitter , whatsapp +249 960166688
 
