@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelhai Jamal</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 - 🌱 I’m currently learning   **Algorithms and Data structures**
 
